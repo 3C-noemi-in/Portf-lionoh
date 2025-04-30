@@ -1,3 +1,7 @@
 body{
     background-color: pink;
 }
+
+#linha {
+    border-bottom: black 3px solid;
+}
